@@ -21,5 +21,5 @@ Let's say you want to backup all the pictures inside your 'C:' Drive to an exter
 `[SOURCE-PATH]`  is the path from where all your pictures will get backed up. For example: `python start.py C:\Users\john`.
 
 ## Follow Me
-**Twitter:** [@inosMooon](https://twitter.com/inosMooon)
+**Twitter:** [@inosMooon](https://twitter.com/inosMooon)  
 **GitHub:** [@MoonStorage](https://github.com/MoonStorage)
